@@ -1,2 +1,2 @@
-var apiKey = "YOUR_GIPHY_API_KEY";
+var apiKey = "Yl07LMLj0w1ZHtVJXLbja60bTMJMoWeX";
 
